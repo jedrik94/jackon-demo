@@ -1,0 +1,15 @@
+{
+  "id" : 69,
+  "surname" : "Jedrzej",
+  "name" : "Wojtkowiak",
+  "age" : 24,
+  "active": true,
+  "address" : {
+    "street" : "Stanislawa Staszica",
+    "city" : "Leszno",
+    "state" : "Wielkopolska",
+    "postcode" : "64100",
+    "country" : "Poland"
+  },
+  "languages" : ["java", "vhld", "c/c++", "html"]
+}
